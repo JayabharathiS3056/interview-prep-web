@@ -3,7 +3,8 @@
 > **Ace your next interview with the power of AI.**  
 > Generate personalized Q&A, pin important questions, take notes, and study smarter — all in one place.
 
-![PrepAI Banner](./frontend/src/assets/hero-img.jpg)
+![Uploading image.png…]()
+
 
 ---
 

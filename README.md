@@ -5,11 +5,6 @@
 
 <img width="1901" height="930" alt="proj" src="https://github.com/user-attachments/assets/c1676b5e-6e43-405e-a24b-fd1ab989974f" />
 
----
-
-## 🚀 Live Demo
-
-> Coming soon after deployment!
 
 ---
 

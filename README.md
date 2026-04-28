@@ -3,8 +3,7 @@
 > **Ace your next interview with the power of AI.**  
 > Generate personalized Q&A, pin important questions, take notes, and study smarter — all in one place.
 
-![Uploading image.png…]()
-
+<img width="1901" height="930" alt="proj" src="https://github.com/user-attachments/assets/c1676b5e-6e43-405e-a24b-fd1ab989974f" />
 
 ---
 

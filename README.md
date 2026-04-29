@@ -155,15 +155,23 @@ Backend runs at → `http://localhost:5000`
 
 ### 🌐 Landing Page
 > Hero section with full-screen image, dark/light toggle, smooth scroll navigation
+> <img width="1906" height="927" alt="image" src="https://github.com/user-attachments/assets/9478df86-4190-4f2b-bfcd-00b028578b62" />
+
 
 ### 📋 Dashboard
 > View all sessions, create new sessions via modal, delete sessions
+> <img width="1920" height="895" alt="image" src="https://github.com/user-attachments/assets/83ee707a-1c08-4aec-aff2-af36761a2072" />
+
 
 ### 🎯 Session Page
 > Accordion Q&A, pin questions, AI explanations, notes, PDF export
+> <img width="1896" height="920" alt="image" src="https://github.com/user-attachments/assets/e7dce7e7-fe3c-4c83-b4b9-7530f705ad1b" />
+
 
 ### 👤 Profile Page
 > Update name and profile picture
+> <img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/c2aa469d-b629-47f6-bdd3-ea542a223889" />
+
 
 ---
 
@@ -177,17 +185,6 @@ Backend runs at → `http://localhost:5000`
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-
-1. Fork the repo
-2. Create your branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
 
 ## 📄 License
 

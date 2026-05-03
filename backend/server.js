@@ -10,7 +10,10 @@ const sessionRoutes = require("./routes/sessionRoutes");
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: "https://interview-prep-web-nu.vercel.app",
+  credentials: true
+}));
 
 // app.use(express.json());
 // Replaced the above for below
